@@ -1,6 +1,6 @@
-# IL-50 DC PSU Controller — STM32 Firmware
+# NIUERA XEH-30K-TX-03 IL-50 Controller — STM32 Firmware
 
-STM32F107VC firmware for a controller board that manages and monitors **IL-50 DC power supply modules** over CAN bus. Supports two modules simultaneously, with CAN1 bridged to CAN2 for PC visibility.
+STM32F107VC firmware for a controller board that manages and monitors **NIUERA XEH-30K-TX-03** 30 kW DC power supply modules (IL-50 form factor) over CAN bus. Supports two modules simultaneously, with CAN1 bridged to CAN2 for PC visibility.
 
 ## Hardware
 
